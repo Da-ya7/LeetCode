@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Da-ya7/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Da-ya7/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Da-ya7/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Da-ya7/LeetCode/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Da-ya7/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Da-ya7/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -27,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Da-ya7/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
