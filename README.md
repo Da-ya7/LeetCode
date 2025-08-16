@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Da-ya7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Da-ya7/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Da-ya7/LeetCode/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
