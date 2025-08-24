@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Da-ya7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Da-ya7/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Da-ya7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/Da-ya7/LeetCode/tree/master/2083-three-divisors) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Da-ya7/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -54,8 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Da-ya7/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Da-ya7/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
