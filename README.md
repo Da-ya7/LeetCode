@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Da-ya7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/Da-ya7/LeetCode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Da-ya7/LeetCode/tree/master/2383-add-two-integers) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Da-ya7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2752-sum-multiples](https://github.com/Da-ya7/LeetCode/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Da-ya7/LeetCode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Da-ya7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
