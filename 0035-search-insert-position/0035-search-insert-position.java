@@ -1,18 +1,28 @@
+import java.util.ArrayList;
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int lp = 0;
-        int rp = nums.length-1;
-
-        while (lp <= rp) {
-            int mid = lp+((rp-lp)/2);
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] > target) {
-                rp = mid - 1;
-            } else {
-                lp = mid + 1;
-            }
+        int l = 0 , u = nums.length-1 , mid;
+        boolean flag = false ;
+        ArrayList<Integer>list = new ArrayList<>();
+        list.add(target);
+        Arrays.sort(nums);
+       while(l<=u){   
+           mid = (l+u)/2;
+           if(nums[mid]==target){
+            flag= true;
+            return mid;
+           }
+       
+        else if (nums[mid]< target)
+        {
+            l =mid+1; 
         }
-        return lp; 
-    }
-}
+        else  
+        {
+            u = mid -1;
+        }
+       }
+      return l;
+       }  
+        }
+
