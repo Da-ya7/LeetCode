@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Da-ya7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Da-ya7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Da-ya7/LeetCode/tree/master/2083-three-divisors) |
+| [2235-add-two-integers](https://github.com/Da-ya7/LeetCode/tree/master/2235-add-two-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Da-ya7/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/Da-ya7/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Da-ya7/LeetCode/tree/master/2491-smallest-even-multiple) |
