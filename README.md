@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Da-ya7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Da-ya7/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Da-ya7/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Da-ya7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Da-ya7/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Da-ya7/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Da-ya7/LeetCode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Da-ya7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Da-ya7/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
