@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Da-ya7/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Da-ya7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Da-ya7/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Da-ya7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Da-ya7/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Da-ya7/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Da-ya7/LeetCode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Da-ya7/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
