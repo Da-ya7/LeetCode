@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Da-ya7/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Da-ya7/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Da-ya7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Da-ya7/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Da-ya7/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Da-ya7/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Da-ya7/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Da-ya7/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Da-ya7/LeetCode/tree/master/1086-divisor-game) |
 ## Geometry
 |  |
