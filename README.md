@@ -119,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Da-ya7/LeetCode/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Da-ya7/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
